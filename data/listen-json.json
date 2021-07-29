@@ -1,0 +1,1964 @@
+[
+	[
+		{
+			"digit_fname": "Track01_01_c.wav",
+			"noise_fname": "Track01_01_n.wav",
+			"digits": [
+				4,
+				6,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track01_02_c.wav",
+			"noise_fname": "Track01_02_n.wav",
+			"digits": [
+				3,
+				5,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track01_03_c.wav",
+			"noise_fname": "Track01_03_n.wav",
+			"digits": [
+				5,
+				0,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track01_04_c.wav",
+			"noise_fname": "Track01_04_n.wav",
+			"digits": [
+				0,
+				5,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track01_05_c.wav",
+			"noise_fname": "Track01_05_n.wav",
+			"digits": [
+				7,
+				0,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track01_06_c.wav",
+			"noise_fname": "Track01_06_n.wav",
+			"digits": [
+				1,
+				5,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track01_07_c.wav",
+			"noise_fname": "Track01_07_n.wav",
+			"digits": [
+				0,
+				3,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track01_08_c.wav",
+			"noise_fname": "Track01_08_n.wav",
+			"digits": [
+				8,
+				2,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track01_09_c.wav",
+			"noise_fname": "Track01_09_n.wav",
+			"digits": [
+				9,
+				6,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track01_10_c.wav",
+			"noise_fname": "Track01_10_n.wav",
+			"digits": [
+				6,
+				3,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track01_11_c.wav",
+			"noise_fname": "Track01_11_n.wav",
+			"digits": [
+				2,
+				4,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track01_12_c.wav",
+			"noise_fname": "Track01_12_n.wav",
+			"digits": [
+				1,
+				8,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track01_13_c.wav",
+			"noise_fname": "Track01_13_n.wav",
+			"digits": [
+				6,
+				4,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track01_14_c.wav",
+			"noise_fname": "Track01_14_n.wav",
+			"digits": [
+				4,
+				7,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track01_15_c.wav",
+			"noise_fname": "Track01_15_n.wav",
+			"digits": [
+				7,
+				4,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track01_16_c.wav",
+			"noise_fname": "Track01_16_n.wav",
+			"digits": [
+				5,
+				2,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track01_17_c.wav",
+			"noise_fname": "Track01_17_n.wav",
+			"digits": [
+				1,
+				0,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track01_18_c.wav",
+			"noise_fname": "Track01_18_n.wav",
+			"digits": [
+				9,
+				7,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track01_19_c.wav",
+			"noise_fname": "Track01_19_n.wav",
+			"digits": [
+				2,
+				4,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track01_20_c.wav",
+			"noise_fname": "Track01_20_n.wav",
+			"digits": [
+				3,
+				8,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track01_21_c.wav",
+			"noise_fname": "Track01_21_n.wav",
+			"digits": [
+				9,
+				5,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track01_22_c.wav",
+			"noise_fname": "Track01_22_n.wav",
+			"digits": [
+				5,
+				4,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track01_23_c.wav",
+			"noise_fname": "Track01_23_n.wav",
+			"digits": [
+				8,
+				9,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track01_24_c.wav",
+			"noise_fname": "Track01_24_n.wav",
+			"digits": [
+				0,
+				6,
+				3
+			]
+		}
+	],
+	[
+		{
+			"digit_fname": "Track02_01_c.wav",
+			"noise_fname": "Track02_01_n.wav",
+			"digits": [
+				3,
+				6,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track02_02_c.wav",
+			"noise_fname": "Track02_02_n.wav",
+			"digits": [
+				6,
+				9,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track02_03_c.wav",
+			"noise_fname": "Track02_03_n.wav",
+			"digits": [
+				4,
+				1,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track02_04_c.wav",
+			"noise_fname": "Track02_04_n.wav",
+			"digits": [
+				1,
+				0,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track02_05_c.wav",
+			"noise_fname": "Track02_05_n.wav",
+			"digits": [
+				8,
+				4,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track02_06_c.wav",
+			"noise_fname": "Track02_06_n.wav",
+			"digits": [
+				7,
+				3,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track02_07_c.wav",
+			"noise_fname": "Track02_07_n.wav",
+			"digits": [
+				5,
+				8,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track02_08_c.wav",
+			"noise_fname": "Track02_08_n.wav",
+			"digits": [
+				6,
+				5,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track02_09_c.wav",
+			"noise_fname": "Track02_09_n.wav",
+			"digits": [
+				5,
+				9,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track02_10_c.wav",
+			"noise_fname": "Track02_10_n.wav",
+			"digits": [
+				0,
+				2,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track02_11_c.wav",
+			"noise_fname": "Track02_11_n.wav",
+			"digits": [
+				2,
+				4,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track02_12_c.wav",
+			"noise_fname": "Track02_12_n.wav",
+			"digits": [
+				1,
+				6,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track02_13_c.wav",
+			"noise_fname": "Track02_13_n.wav",
+			"digits": [
+				9,
+				1,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track02_14_c.wav",
+			"noise_fname": "Track02_14_n.wav",
+			"digits": [
+				7,
+				9,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track02_15_c.wav",
+			"noise_fname": "Track02_15_n.wav",
+			"digits": [
+				8,
+				4,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track02_16_c.wav",
+			"noise_fname": "Track02_16_n.wav",
+			"digits": [
+				4,
+				1,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track02_17_c.wav",
+			"noise_fname": "Track02_17_n.wav",
+			"digits": [
+				5,
+				7,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track02_18_c.wav",
+			"noise_fname": "Track02_18_n.wav",
+			"digits": [
+				7,
+				2,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track02_19_c.wav",
+			"noise_fname": "Track02_19_n.wav",
+			"digits": [
+				9,
+				2,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track02_20_c.wav",
+			"noise_fname": "Track02_20_n.wav",
+			"digits": [
+				7,
+				8,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track02_21_c.wav",
+			"noise_fname": "Track02_21_n.wav",
+			"digits": [
+				3,
+				9,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track02_22_c.wav",
+			"noise_fname": "Track02_22_n.wav",
+			"digits": [
+				2,
+				1,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track02_23_c.wav",
+			"noise_fname": "Track02_23_n.wav",
+			"digits": [
+				0,
+				3,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track02_24_c.wav",
+			"noise_fname": "Track02_24_n.wav",
+			"digits": [
+				1,
+				8,
+				0
+			]
+		}
+	],
+	[
+		{
+			"digit_fname": "Track03_01_c.wav",
+			"noise_fname": "Track03_01_n.wav",
+			"digits": [
+				7,
+				3,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track03_02_c.wav",
+			"noise_fname": "Track03_02_n.wav",
+			"digits": [
+				0,
+				7,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track03_03_c.wav",
+			"noise_fname": "Track03_03_n.wav",
+			"digits": [
+				1,
+				6,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track03_04_c.wav",
+			"noise_fname": "Track03_04_n.wav",
+			"digits": [
+				6,
+				4,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track03_05_c.wav",
+			"noise_fname": "Track03_05_n.wav",
+			"digits": [
+				4,
+				5,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track03_06_c.wav",
+			"noise_fname": "Track03_06_n.wav",
+			"digits": [
+				8,
+				9,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track03_07_c.wav",
+			"noise_fname": "Track03_07_n.wav",
+			"digits": [
+				3,
+				7,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track03_08_c.wav",
+			"noise_fname": "Track03_08_n.wav",
+			"digits": [
+				8,
+				5,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track03_09_c.wav",
+			"noise_fname": "Track03_09_n.wav",
+			"digits": [
+				4,
+				7,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track03_10_c.wav",
+			"noise_fname": "Track03_10_n.wav",
+			"digits": [
+				7,
+				3,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track03_11_c.wav",
+			"noise_fname": "Track03_11_n.wav",
+			"digits": [
+				2,
+				4,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track03_12_c.wav",
+			"noise_fname": "Track03_12_n.wav",
+			"digits": [
+				9,
+				8,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track03_13_c.wav",
+			"noise_fname": "Track03_13_n.wav",
+			"digits": [
+				3,
+				0,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track03_14_c.wav",
+			"noise_fname": "Track03_14_n.wav",
+			"digits": [
+				0,
+				7,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track03_15_c.wav",
+			"noise_fname": "Track03_15_n.wav",
+			"digits": [
+				0,
+				2,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track03_16_c.wav",
+			"noise_fname": "Track03_16_n.wav",
+			"digits": [
+				9,
+				3,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track03_17_c.wav",
+			"noise_fname": "Track03_17_n.wav",
+			"digits": [
+				5,
+				9,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track03_18_c.wav",
+			"noise_fname": "Track03_18_n.wav",
+			"digits": [
+				9,
+				1,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track03_19_c.wav",
+			"noise_fname": "Track03_19_n.wav",
+			"digits": [
+				8,
+				6,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track03_20_c.wav",
+			"noise_fname": "Track03_20_n.wav",
+			"digits": [
+				3,
+				5,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track03_21_c.wav",
+			"noise_fname": "Track03_21_n.wav",
+			"digits": [
+				8,
+				6,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track03_22_c.wav",
+			"noise_fname": "Track03_22_n.wav",
+			"digits": [
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track03_23_c.wav",
+			"noise_fname": "Track03_23_n.wav",
+			"digits": [
+				2,
+				8,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track03_24_c.wav",
+			"noise_fname": "Track03_24_n.wav",
+			"digits": [
+				1,
+				4,
+				6
+			]
+		}
+	],
+	[
+		{
+			"digit_fname": "Track04_01_c.wav",
+			"noise_fname": "Track04_01_n.wav",
+			"digits": [
+				0,
+				4,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track04_02_c.wav",
+			"noise_fname": "Track04_02_n.wav",
+			"digits": [
+				6,
+				7,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track04_03_c.wav",
+			"noise_fname": "Track04_03_n.wav",
+			"digits": [
+				4,
+				2,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track04_04_c.wav",
+			"noise_fname": "Track04_04_n.wav",
+			"digits": [
+				9,
+				1,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track04_05_c.wav",
+			"noise_fname": "Track04_05_n.wav",
+			"digits": [
+				1,
+				9,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track04_06_c.wav",
+			"noise_fname": "Track04_06_n.wav",
+			"digits": [
+				9,
+				0,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track04_07_c.wav",
+			"noise_fname": "Track04_07_n.wav",
+			"digits": [
+				7,
+				1,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track04_08_c.wav",
+			"noise_fname": "Track04_08_n.wav",
+			"digits": [
+				8,
+				6,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track04_09_c.wav",
+			"noise_fname": "Track04_09_n.wav",
+			"digits": [
+				7,
+				5,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track04_10_c.wav",
+			"noise_fname": "Track04_10_n.wav",
+			"digits": [
+				7,
+				1,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track04_11_c.wav",
+			"noise_fname": "Track04_11_n.wav",
+			"digits": [
+				5,
+				7,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track04_12_c.wav",
+			"noise_fname": "Track04_12_n.wav",
+			"digits": [
+				5,
+				7,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track04_13_c.wav",
+			"noise_fname": "Track04_13_n.wav",
+			"digits": [
+				1,
+				5,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track04_14_c.wav",
+			"noise_fname": "Track04_14_n.wav",
+			"digits": [
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track04_15_c.wav",
+			"noise_fname": "Track04_15_n.wav",
+			"digits": [
+				1,
+				4,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track04_16_c.wav",
+			"noise_fname": "Track04_16_n.wav",
+			"digits": [
+				8,
+				3,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track04_17_c.wav",
+			"noise_fname": "Track04_17_n.wav",
+			"digits": [
+				2,
+				9,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track04_18_c.wav",
+			"noise_fname": "Track04_18_n.wav",
+			"digits": [
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track04_19_c.wav",
+			"noise_fname": "Track04_19_n.wav",
+			"digits": [
+				6,
+				8,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track04_20_c.wav",
+			"noise_fname": "Track04_20_n.wav",
+			"digits": [
+				8,
+				2,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track04_21_c.wav",
+			"noise_fname": "Track04_21_n.wav",
+			"digits": [
+				9,
+				8,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track04_22_c.wav",
+			"noise_fname": "Track04_22_n.wav",
+			"digits": [
+				0,
+				4,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track04_23_c.wav",
+			"noise_fname": "Track04_23_n.wav",
+			"digits": [
+				4,
+				5,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track04_24_c.wav",
+			"noise_fname": "Track04_24_n.wav",
+			"digits": [
+				2,
+				9,
+				4
+			]
+		}
+	],
+	[
+		{
+			"digit_fname": "Track05_01_c.wav",
+			"noise_fname": "Track05_01_n.wav",
+			"digits": [
+				8,
+				0,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track05_02_c.wav",
+			"noise_fname": "Track05_02_n.wav",
+			"digits": [
+				3,
+				7,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track05_03_c.wav",
+			"noise_fname": "Track05_03_n.wav",
+			"digits": [
+				8,
+				3,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track05_04_c.wav",
+			"noise_fname": "Track05_04_n.wav",
+			"digits": [
+				8,
+				4,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track05_05_c.wav",
+			"noise_fname": "Track05_05_n.wav",
+			"digits": [
+				7,
+				6,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track05_06_c.wav",
+			"noise_fname": "Track05_06_n.wav",
+			"digits": [
+				0,
+				8,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track05_07_c.wav",
+			"noise_fname": "Track05_07_n.wav",
+			"digits": [
+				4,
+				1,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track05_08_c.wav",
+			"noise_fname": "Track05_08_n.wav",
+			"digits": [
+				9,
+				5,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track05_09_c.wav",
+			"noise_fname": "Track05_09_n.wav",
+			"digits": [
+				2,
+				9,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track05_10_c.wav",
+			"noise_fname": "Track05_10_n.wav",
+			"digits": [
+				1,
+				5,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track05_11_c.wav",
+			"noise_fname": "Track05_11_n.wav",
+			"digits": [
+				5,
+				8,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track05_12_c.wav",
+			"noise_fname": "Track05_12_n.wav",
+			"digits": [
+				9,
+				6,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track05_13_c.wav",
+			"noise_fname": "Track05_13_n.wav",
+			"digits": [
+				1,
+				6,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track05_14_c.wav",
+			"noise_fname": "Track05_14_n.wav",
+			"digits": [
+				0,
+				6,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track05_15_c.wav",
+			"noise_fname": "Track05_15_n.wav",
+			"digits": [
+				2,
+				3,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track05_16_c.wav",
+			"noise_fname": "Track05_16_n.wav",
+			"digits": [
+				6,
+				5,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track05_17_c.wav",
+			"noise_fname": "Track05_17_n.wav",
+			"digits": [
+				5,
+				3,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track05_18_c.wav",
+			"noise_fname": "Track05_18_n.wav",
+			"digits": [
+				6,
+				3,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track05_19_c.wav",
+			"noise_fname": "Track05_19_n.wav",
+			"digits": [
+				5,
+				8,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track05_20_c.wav",
+			"noise_fname": "Track05_20_n.wav",
+			"digits": [
+				7,
+				2,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track05_21_c.wav",
+			"noise_fname": "Track05_21_n.wav",
+			"digits": [
+				9,
+				1,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track05_22_c.wav",
+			"noise_fname": "Track05_22_n.wav",
+			"digits": [
+				5,
+				8,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track05_23_c.wav",
+			"noise_fname": "Track05_23_n.wav",
+			"digits": [
+				9,
+				1,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track05_24_c.wav",
+			"noise_fname": "Track05_24_n.wav",
+			"digits": [
+				3,
+				1,
+				5
+			]
+		}
+	],
+	[
+		{
+			"digit_fname": "Track06_01_c.wav",
+			"noise_fname": "Track06_01_n.wav",
+			"digits": [
+				8,
+				2,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track06_02_c.wav",
+			"noise_fname": "Track06_02_n.wav",
+			"digits": [
+				9,
+				7,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track06_03_c.wav",
+			"noise_fname": "Track06_03_n.wav",
+			"digits": [
+				2,
+				4,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track06_04_c.wav",
+			"noise_fname": "Track06_04_n.wav",
+			"digits": [
+				1,
+				5,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track06_05_c.wav",
+			"noise_fname": "Track06_05_n.wav",
+			"digits": [
+				9,
+				5,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track06_06_c.wav",
+			"noise_fname": "Track06_06_n.wav",
+			"digits": [
+				9,
+				6,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track06_07_c.wav",
+			"noise_fname": "Track06_07_n.wav",
+			"digits": [
+				5,
+				2,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track06_08_c.wav",
+			"noise_fname": "Track06_08_n.wav",
+			"digits": [
+				3,
+				8,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track06_09_c.wav",
+			"noise_fname": "Track06_09_n.wav",
+			"digits": [
+				7,
+				0,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track06_10_c.wav",
+			"noise_fname": "Track06_10_n.wav",
+			"digits": [
+				1,
+				0,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track06_11_c.wav",
+			"noise_fname": "Track06_11_n.wav",
+			"digits": [
+				5,
+				4,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track06_12_c.wav",
+			"noise_fname": "Track06_12_n.wav",
+			"digits": [
+				2,
+				4,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track06_13_c.wav",
+			"noise_fname": "Track06_13_n.wav",
+			"digits": [
+				3,
+				5,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track06_14_c.wav",
+			"noise_fname": "Track06_14_n.wav",
+			"digits": [
+				4,
+				7,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track06_15_c.wav",
+			"noise_fname": "Track06_15_n.wav",
+			"digits": [
+				0,
+				5,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track06_16_c.wav",
+			"noise_fname": "Track06_16_n.wav",
+			"digits": [
+				6,
+				3,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track06_17_c.wav",
+			"noise_fname": "Track06_17_n.wav",
+			"digits": [
+				8,
+				9,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track06_18_c.wav",
+			"noise_fname": "Track06_18_n.wav",
+			"digits": [
+				5,
+				0,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track06_19_c.wav",
+			"noise_fname": "Track06_19_n.wav",
+			"digits": [
+				7,
+				4,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track06_20_c.wav",
+			"noise_fname": "Track06_20_n.wav",
+			"digits": [
+				4,
+				6,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track06_21_c.wav",
+			"noise_fname": "Track06_21_n.wav",
+			"digits": [
+				0,
+				3,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track06_22_c.wav",
+			"noise_fname": "Track06_22_n.wav",
+			"digits": [
+				6,
+				4,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track06_23_c.wav",
+			"noise_fname": "Track06_23_n.wav",
+			"digits": [
+				0,
+				6,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track06_24_c.wav",
+			"noise_fname": "Track06_24_n.wav",
+			"digits": [
+				1,
+				8,
+				6
+			]
+		}
+	],
+	[
+		{
+			"digit_fname": "Track07_01_c.wav",
+			"noise_fname": "Track07_01_n.wav",
+			"digits": [
+				7,
+				3,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track07_02_c.wav",
+			"noise_fname": "Track07_02_n.wav",
+			"digits": [
+				1,
+				0,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track07_03_c.wav",
+			"noise_fname": "Track07_03_n.wav",
+			"digits": [
+				6,
+				9,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track07_04_c.wav",
+			"noise_fname": "Track07_04_n.wav",
+			"digits": [
+				0,
+				2,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track07_05_c.wav",
+			"noise_fname": "Track07_05_n.wav",
+			"digits": [
+				1,
+				6,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track07_06_c.wav",
+			"noise_fname": "Track07_06_n.wav",
+			"digits": [
+				5,
+				7,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track07_07_c.wav",
+			"noise_fname": "Track07_07_n.wav",
+			"digits": [
+				5,
+				9,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track07_08_c.wav",
+			"noise_fname": "Track07_08_n.wav",
+			"digits": [
+				4,
+				1,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track07_09_c.wav",
+			"noise_fname": "Track07_09_n.wav",
+			"digits": [
+				9,
+				1,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track07_10_c.wav",
+			"noise_fname": "Track07_10_n.wav",
+			"digits": [
+				8,
+				4,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track07_11_c.wav",
+			"noise_fname": "Track07_11_n.wav",
+			"digits": [
+				4,
+				1,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track07_12_c.wav",
+			"noise_fname": "Track07_12_n.wav",
+			"digits": [
+				7,
+				8,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track07_13_c.wav",
+			"noise_fname": "Track07_13_n.wav",
+			"digits": [
+				7,
+				9,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track07_14_c.wav",
+			"noise_fname": "Track07_14_n.wav",
+			"digits": [
+				6,
+				5,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track07_15_c.wav",
+			"noise_fname": "Track07_15_n.wav",
+			"digits": [
+				1,
+				8,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track07_16_c.wav",
+			"noise_fname": "Track07_16_n.wav",
+			"digits": [
+				8,
+				4,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track07_17_c.wav",
+			"noise_fname": "Track07_17_n.wav",
+			"digits": [
+				7,
+				2,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track07_18_c.wav",
+			"noise_fname": "Track07_18_n.wav",
+			"digits": [
+				2,
+				1,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track07_19_c.wav",
+			"noise_fname": "Track07_19_n.wav",
+			"digits": [
+				0,
+				3,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track07_20_c.wav",
+			"noise_fname": "Track07_20_n.wav",
+			"digits": [
+				3,
+				9,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track07_21_c.wav",
+			"noise_fname": "Track07_21_n.wav",
+			"digits": [
+				3,
+				6,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track07_22_c.wav",
+			"noise_fname": "Track07_22_n.wav",
+			"digits": [
+				9,
+				2,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track07_23_c.wav",
+			"noise_fname": "Track07_23_n.wav",
+			"digits": [
+				5,
+				8,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track07_24_c.wav",
+			"noise_fname": "Track07_24_n.wav",
+			"digits": [
+				2,
+				4,
+				5
+			]
+		}
+	],
+	[
+		{
+			"digit_fname": "Track08_01_c.wav",
+			"noise_fname": "Track08_01_n.wav",
+			"digits": [
+				8,
+				6,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track08_02_c.wav",
+			"noise_fname": "Track08_02_n.wav",
+			"digits": [
+				1,
+				6,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track08_03_c.wav",
+			"noise_fname": "Track08_03_n.wav",
+			"digits": [
+				4,
+				7,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track08_04_c.wav",
+			"noise_fname": "Track08_04_n.wav",
+			"digits": [
+				0,
+				2,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track08_05_c.wav",
+			"noise_fname": "Track08_05_n.wav",
+			"digits": [
+				8,
+				5,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track08_06_c.wav",
+			"noise_fname": "Track08_06_n.wav",
+			"digits": [
+				0,
+				7,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track08_07_c.wav",
+			"noise_fname": "Track08_07_n.wav",
+			"digits": [
+				3,
+				5,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track08_08_c.wav",
+			"noise_fname": "Track08_08_n.wav",
+			"digits": [
+				9,
+				1,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track08_09_c.wav",
+			"noise_fname": "Track08_09_n.wav",
+			"digits": [
+				9,
+				8,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track08_10_c.wav",
+			"noise_fname": "Track08_10_n.wav",
+			"digits": [
+				2,
+				8,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track08_11_c.wav",
+			"noise_fname": "Track08_11_n.wav",
+			"digits": [
+				4,
+				5,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track08_12_c.wav",
+			"noise_fname": "Track08_12_n.wav",
+			"digits": [
+				7,
+				3,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track08_13_c.wav",
+			"noise_fname": "Track08_13_n.wav",
+			"digits": [
+				7,
+				3,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track08_14_c.wav",
+			"noise_fname": "Track08_14_n.wav",
+			"digits": [
+				0,
+				7,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track08_15_c.wav",
+			"noise_fname": "Track08_15_n.wav",
+			"digits": [
+				2,
+				4,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track08_16_c.wav",
+			"noise_fname": "Track08_16_n.wav",
+			"digits": [
+				6,
+				4,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track08_17_c.wav",
+			"noise_fname": "Track08_17_n.wav",
+			"digits": [
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"digit_fname": "Track08_18_c.wav",
+			"noise_fname": "Track08_18_n.wav",
+			"digits": [
+				8,
+				6,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track08_19_c.wav",
+			"noise_fname": "Track08_19_n.wav",
+			"digits": [
+				3,
+				0,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track08_20_c.wav",
+			"noise_fname": "Track08_20_n.wav",
+			"digits": [
+				9,
+				3,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track08_21_c.wav",
+			"noise_fname": "Track08_21_n.wav",
+			"digits": [
+				3,
+				7,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track08_22_c.wav",
+			"noise_fname": "Track08_22_n.wav",
+			"digits": [
+				8,
+				9,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track08_23_c.wav",
+			"noise_fname": "Track08_23_n.wav",
+			"digits": [
+				5,
+				9,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track08_24_c.wav",
+			"noise_fname": "Track08_24_n.wav",
+			"digits": [
+				1,
+				4,
+				6
+			]
+		}
+	],
+	[
+		{
+			"digit_fname": "Track09_01_c.wav",
+			"noise_fname": "Track09_01_n.wav",
+			"digits": [
+				8,
+				2,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track09_02_c.wav",
+			"noise_fname": "Track09_02_n.wav",
+			"digits": [
+				8,
+				6,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track09_03_c.wav",
+			"noise_fname": "Track09_03_n.wav",
+			"digits": [
+				7,
+				1,
+				8
+			]
+		},
+		{
+			"digit_fname": "Track09_04_c.wav",
+			"noise_fname": "Track09_04_n.wav",
+			"digits": [
+				9,
+				8,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track09_05_c.wav",
+			"noise_fname": "Track09_05_n.wav",
+			"digits": [
+				0,
+				4,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track09_06_c.wav",
+			"noise_fname": "Track09_06_n.wav",
+			"digits": [
+				2,
+				9,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track09_07_c.wav",
+			"noise_fname": "Track09_07_n.wav",
+			"digits": [
+				4,
+				2,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track09_08_c.wav",
+			"noise_fname": "Track09_08_n.wav",
+			"digits": [
+				1,
+				4,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track09_09_c.wav",
+			"noise_fname": "Track09_09_n.wav",
+			"digits": [
+				5,
+				6,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track09_10_c.wav",
+			"noise_fname": "Track09_10_n.wav",
+			"digits": [
+				2,
+				9,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track09_11_c.wav",
+			"noise_fname": "Track09_11_n.wav",
+			"digits": [
+				8,
+				3,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track09_12_c.wav",
+			"noise_fname": "Track09_12_n.wav",
+			"digits": [
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"digit_fname": "Track09_13_c.wav",
+			"noise_fname": "Track09_13_n.wav",
+			"digits": [
+				1,
+				5,
+				6
+			]
+		},
+		{
+			"digit_fname": "Track09_14_c.wav",
+			"noise_fname": "Track09_14_n.wav",
+			"digits": [
+				7,
+				1,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track09_15_c.wav",
+			"noise_fname": "Track09_15_n.wav",
+			"digits": [
+				0,
+				4,
+				9
+			]
+		},
+		{
+			"digit_fname": "Track09_16_c.wav",
+			"noise_fname": "Track09_16_n.wav",
+			"digits": [
+				5,
+				7,
+				4
+			]
+		},
+		{
+			"digit_fname": "Track09_17_c.wav",
+			"noise_fname": "Track09_17_n.wav",
+			"digits": [
+				6,
+				8,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track09_18_c.wav",
+			"noise_fname": "Track09_18_n.wav",
+			"digits": [
+				9,
+				0,
+				3
+			]
+		},
+		{
+			"digit_fname": "Track09_19_c.wav",
+			"noise_fname": "Track09_19_n.wav",
+			"digits": [
+				7,
+				5,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track09_20_c.wav",
+			"noise_fname": "Track09_20_n.wav",
+			"digits": [
+				5,
+				7,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track09_21_c.wav",
+			"noise_fname": "Track09_21_n.wav",
+			"digits": [
+				6,
+				7,
+				2
+			]
+		},
+		{
+			"digit_fname": "Track09_22_c.wav",
+			"noise_fname": "Track09_22_n.wav",
+			"digits": [
+				4,
+				5,
+				0
+			]
+		},
+		{
+			"digit_fname": "Track09_23_c.wav",
+			"noise_fname": "Track09_23_n.wav",
+			"digits": [
+				9,
+				1,
+				7
+			]
+		},
+		{
+			"digit_fname": "Track09_24_c.wav",
+			"noise_fname": "Track09_24_n.wav",
+			"digits": [
+				1,
+				9,
+				8
+			]
+		}
+	]
+]
