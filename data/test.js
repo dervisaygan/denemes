@@ -734,7 +734,7 @@ JSON.parse(this.responseText)[0].forEach(es => {
 
 var oReq = new XMLHttpRequest();
 oReq.addEventListener("load", reqListener);
-oReq.open("GET", "/data/data-group.json");
+oReq.open("GET", "data/data-group.json");
 oReq.send();
 
 
@@ -748,7 +748,7 @@ JSON.parse(this.responseText).forEach(esa => {
 
 var oReqa = new XMLHttpRequest();
 oReqa.addEventListener("load", reqListenera);
-oReqa.open("GET", "/data/listen-json.json");
+oReqa.open("GET", "data/listen-json.json");
 oReqa.send();
 
 
